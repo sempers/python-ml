@@ -1,1 +1,9 @@
 **/*.npz
+**/.ipynb_checkpoints/
+common/
+**/*.hdf5
+**/*.h5
+**/*.w5
+**/_data/
+**/.idea/
+**/__pycache__/

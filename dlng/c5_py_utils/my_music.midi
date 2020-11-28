@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!-- saved from url=(0118)https://vtvefdpqdmjbpcivodogrg.coursera-apps.org/view/Week%201/Jazz%20improvisation%20with%20LSTM/output/my_music.midi -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>my_music.midi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="./my_music_files/my_music.html"></iframe>
+  </div>
+
+
+</body></html>
