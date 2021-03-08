@@ -2,5 +2,9 @@
 12-GAN - https://colab.research.google.com/drive/1FUWrsBYOC8urjHwp_orZIBwUHfx859Jx?usp=sharing
 13	- Файлом
 14 - https://colab.research.google.com/drive/1QD5Sgng2qG5QG-1nHLZc5x800DMgA67l?usp=sharing
+	 https://colab.research.google.com/drive/1Ch3QVZD8QkBoPpEThJYAKKFk0B-byMXU?usp=sharing
 15 - https://colab.research.google.com/drive/1itDQ_NAeNpDgYhpl1Ab5vyffHE8DXma4?usp=sharing
 16 - https://colab.research.google.com/drive/1tKkJSuEOmJdsJh02AHkUmgzutXufsHDh?usp=sharing
+17 - https://colab.research.google.com/drive/1EMMr2QhGwYjlKJiwVmabSSXETzTB-xOe?usp=sharing
+18 - https://colab.research.google.com/drive/1I9b3ssZ7n7jn36J95gTfxhq8NqIGxwBo?usp=sharing
+19 - файл

@@ -1,0 +1,32 @@
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0
+
+===============
+
+sudo apt-get update
+sudo apt install python3-pip
+pip3 install tensorflow-gpu==2.0
+
+===============
+
+sudo echo "deb http://storage.googleapis.com/tensorflow-serving-apt stable tensorflow-model-server tensorflow-model-server-universal" | sudo tee /etc/apt/sources.list.d/tensorflow-serving.list
+
+sudo curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg | sudo apt-key add -
+
+sudo apt update
+
+sudo apt-get install tensorflow-model-server
+
+===============
+
+D:/skillbox/saved_model/
+
+/mnt/d/skillbox/saved_model/
+
+tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path="/mnt/d/skillbox/saved_model/"
+
+http://localhost:8501/v1/models/saved_model/versions/1:predict 
+
+cd /mnt/d/skillbox
+
+python3 recognize.py phone.png
